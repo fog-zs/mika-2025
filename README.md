@@ -38,3 +38,6 @@ go run main.go
 ## logに関する注意
 sendBitsと書かれているが、sumBitsの誤り
 sendとreceiveの合計bitsである
+
+誤) sendBits 正) sumBits
+誤) averageSendBit 正) saverageSumBits
