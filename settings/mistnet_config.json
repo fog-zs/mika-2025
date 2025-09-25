@@ -1,0 +1,27 @@
+{
+  "nodeId": "c31ad9d352be4440b43350c01f1e14cf",
+  "randomId": true,
+  "bootstraps": [
+    "ws://localhost:8080/signaling"
+  ],
+  "globalNode": {
+    "enable": false,
+    "port": 8080
+  },
+  "roomId": "MistNet_dnve1",
+  "stunUrls": [
+    "stun:stun.l.google.com:19302"
+  ],
+  "turnServer": {
+    "credential": null,
+    "credentialType": 0,
+    "urls": null,
+    "username": null
+  },
+  "showLogLine": 10,
+  "logFilter": "[STATS]",
+  "logLevel": "error",
+  "logDisplay": false,
+  "logWarningDisplay": false,
+  "logErrorDisplay": true
+}

@@ -1,0 +1,11 @@
+{
+  "visibleCount": 5,
+  "maxConnectionCount": 20,
+  "exchangeNodeCount": 3,
+  "chunkLoadSize": 2,
+  "areaTrackerIntervalSeconds": 2,
+  "connectionBalancerIntervalSeconds": 2,
+  "visibleNodesIntervalSeconds": 2,
+  "expireSeconds": 10,
+  "kademliaK": 20
+}
