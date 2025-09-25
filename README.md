@@ -34,3 +34,7 @@ Commit ID: cd0b65bf89b69ac80a9cc3b4b378ac84ad38fa7a
 ```bash
 go run main.go
 ```
+
+## logに関する注意
+sendBitsと書かれているが、sumBitsの誤り
+sendとreceiveの合計bitsである
